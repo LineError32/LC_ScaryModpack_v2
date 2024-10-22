@@ -1,15 +1,13 @@
-# Note
-This modpack is one of my first so don't exspect to much. Manualy add BepInEx 5.4.22 to this modpack for the mods to work. 
-Modpack backup (if thunder store is no working)
+# Important 
+This modpack needs BepInEx 5.4.22 installed manually to work. Newer versions of BepInEx have not been tested.
 
-Mods-190
-Ram-
-
+# Modpack Backup
+If thunderstore is not working
 
 # ChangeLog
 1.1.0
 -Fixed multiplayer :D
--Removed & added some mods
+-Removed & added mods for better performance
 
 1.0.0
 -First public modpack hurryay!!
